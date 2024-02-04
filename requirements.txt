@@ -1,0 +1,11 @@
+streamlit~=1.31.0
+openai
+langchain
+llama_hub
+llama_index
+googlesearch-python
+astrapy
+requests~=2.31.0
+beautifulsoup4~=4.12.3
+youtube_transcript_api
+google-api-python-client
