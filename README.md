@@ -42,4 +42,7 @@ Could be scaled to add more integrations from social micro blogs link X, Threads
 Seamless experience across multiple software platforms and devices.
 Easy plug and play capability to adapt to new AI models.
 
+Architecture:
+
+![User Input Search topics](https://github.com/ll239/ragathon/assets/103622119/f8a59b02-75c2-4bf9-8956-2e1ab1d7fcbc)
 
