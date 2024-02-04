@@ -1,14 +1,14 @@
 Tingle
 
-Elevator Pitch
+Elevator Pitch:
 	With explosive growth of information and technology accessibility, current search engines are catered to deliver customizable experience to users of different age groups and skill levels. Tingle is a simple yet effective Personalized search engine that would customize your experience by providing a Safe, reliable, configurable, and efficient search experience for its users according to their demographics and technology expertise.   
 
-Summary
+Summary:
 With explosive growth of information and technology accessibility, current search engines are catered to deliver customizable experience to users of different age groups and skill levels. Tingle is a simple yet effective Personalized search engine that would customize your experience by providing a Safe, reliable, configurable, and efficient search experience for its users according to their demographics and technology expertise. 
 Tingle targets key challenges in traditional search engines, like configurability, unnecessary navigation from search experience, Safety (personal/emotional), 
 
 
-Advantages
+Advantages:
 Key Benefits to differentiate from traditional search engines 
 Tingle provides Source, Theme, and Summary of search results without having you navigate away from search experience. 
 It flags search results and summaries for any Keywords or themes that would trigger an emotional disturbance or an unpleasant experience for its users.
