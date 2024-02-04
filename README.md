@@ -7,6 +7,12 @@ Summary:
 With explosive growth of information and technology accessibility, current search engines are catered to deliver customizable experience to users of different age groups and skill levels. Tingle is a simple yet effective Personalized search engine that would customize your experience by providing a Safe, reliable, configurable, and efficient search experience for its users according to their demographics and technology expertise. 
 Tingle targets key challenges in traditional search engines, like configurability, unnecessary navigation from search experience, Safety (personal/emotional), 
 
+Overview:1. Used custom google search engine and YouTube api to gets links
+2. Used llamaindex to load and index the scraped content and transcriptions for the google links and YouTube videos respectively, and stored the data to Astradb using session state. Used SimpleDirectoryReader to load documents.
+3. Used llamaindex  VectorStoreIndex to create vector story so that model can quickly retrieve context from data.
+4. Created a query engine and used Openai to query for summaries, trigger identifications, and theme selections.
+5. Parsed a trigger guideline pdf using pdf parser of llama hub for reference.
+
 
 Advantages:
 Key Benefits to differentiate from traditional search engines 
